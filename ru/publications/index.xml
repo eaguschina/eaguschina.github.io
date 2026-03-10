@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>https://eaguschina.github.io/ru/publications/</link>
+      <atom:link href="https://eaguschina.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eaguschina.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Publications</title>
+      <link>https://eaguschina.github.io/ru/publications/</link>
+    </image>
+    
+    <item>
+      <title>Управление версиями</title>
+      <link>https://eaguschina.github.io/ru/publications/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://eaguschina.github.io/ru/publications/01/</guid>
+      <description>&lt;h2 id=&#34;-что-такое-управление-версиями&#34;&gt;💻 Что такое управление версиями&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Управление версиями&lt;/strong&gt; — это система, которая позволяет отслеживать изменения в файлах и сохранять разные версии проекта. Такие системы особенно важны при разработке программного обеспечения, когда над одним проектом работает несколько человек.&lt;/p&gt;
+&lt;p&gt;Благодаря системам управления версиями можно легко увидеть, какие изменения были внесены, кто их сделал и когда это произошло.&lt;/p&gt;
+&lt;h2 id=&#34;-зачем-это-нужно&#34;&gt;📂 Зачем это нужно&lt;/h2&gt;
+&lt;p&gt;Система управления версиями помогает разработчикам:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 сохранять историю изменений проекта&lt;/li&gt;
+&lt;li&gt;🔄 возвращаться к предыдущим версиям файлов&lt;/li&gt;
+&lt;li&gt;👥 работать над одним проектом одновременно нескольким разработчикам&lt;/li&gt;
+&lt;li&gt;🛠 исправлять ошибки без потери предыдущего кода&lt;/li&gt;
+&lt;li&gt;📊 отслеживать развитие проекта&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Это делает процесс разработки более организованным и безопасным.&lt;/p&gt;
+&lt;h2 id=&#34;-популярные-системы-управления-версиями&#34;&gt;⚙️ Популярные системы управления версиями&lt;/h2&gt;
+&lt;p&gt;Существует несколько систем управления версиями, но наиболее распространённой сегодня является &lt;strong&gt;Git&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;git&#34;&gt;Git&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Git&lt;/strong&gt; — это распределённая система управления версиями. Она позволяет хранить полную историю проекта и работать с копиями репозитория на разных компьютерах.&lt;/p&gt;
+&lt;p&gt;Основные возможности Git:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;создание репозиториев для хранения проекта&lt;/li&gt;
+&lt;li&gt;фиксация изменений с помощью &lt;strong&gt;коммитов&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;работа с &lt;strong&gt;ветками (branches)&lt;/strong&gt; для разработки новых функций&lt;/li&gt;
+&lt;li&gt;объединение изменений через &lt;strong&gt;merge&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;совместная работа через платформы, например &lt;strong&gt;GitHub&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-почему-управление-версиями-важно&#34;&gt;🌐 Почему управление версиями важно&lt;/h2&gt;
+&lt;p&gt;В современных IT-проектах управление версиями является необходимым инструментом. Оно помогает организовать работу команды, предотвращает потерю данных и упрощает процесс разработки.&lt;/p&gt;
+&lt;p&gt;Даже для небольших учебных проектов использование Git помогает лучше понимать процесс разработки программного обеспечения и учиться работать с современными инструментами.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Использование систем управления версиями — один из базовых навыков для любого специалиста в сфере информационных технологий.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
