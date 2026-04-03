@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation | </title>
+    <link>https://eaguschina.github.io/ru/tags/documentation/</link>
+      <atom:link href="https://eaguschina.github.io/ru/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Documentation</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eaguschina.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Documentation</title>
+      <link>https://eaguschina.github.io/ru/tags/documentation/</link>
+    </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://eaguschina.github.io/ru/publications/02/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://eaguschina.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-легковесные-языки-разметки&#34;&gt;📝 Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки — это простой и удобный способ форматирования текста без сложного синтаксиса. Они позволяют быстро создавать структурированные документы, которые легко читаются как человеком, так и компьютером.&lt;/p&gt;
+&lt;p&gt;В отличие от традиционных языков разметки, таких как HTML, легковесные варианты делают акцент на читаемости и минимализме. Даже без обработки текст остаётся понятным и аккуратно оформленным.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Один из самых популярных языков — &lt;strong&gt;Markdown&lt;/strong&gt;. Он используется для написания документации, README-файлов и постов. Простые символы позволяют выделять заголовки, списки, ссылки и код.&lt;/li&gt;
+&lt;li&gt;✍️ &lt;strong&gt;reStructuredText (reST)&lt;/strong&gt; часто применяется в технической документации, например в проектах на Python. Он поддерживает более сложные структуры и расширенные возможности форматирования.&lt;/li&gt;
+&lt;li&gt;📚 &lt;strong&gt;Asciidoc&lt;/strong&gt; подходит для создания больших документов и книг, предоставляя гибкие инструменты для работы с контентом.&lt;/li&gt;
+&lt;li&gt;⚡ Главное преимущество таких языков — их простота. Освоить базовые элементы можно за короткое время, а эффективность при работе с текстом значительно возрастает.&lt;/li&gt;
+&lt;li&gt;🔄 Легковесные языки легко конвертируются в другие форматы: HTML, PDF или DOCX, что делает их универсальным инструментом.&lt;/li&gt;
+&lt;li&gt;💡 Они активно используются разработчиками, аналитиками и студентами для ведения заметок, документации и блогов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Использование легковесных языков разметки помогает сосредоточиться на содержании, а не на оформлении. Это делает процесс написания быстрее и удобнее, особенно в учебной и профессиональной среде.&lt;/p&gt;
+&lt;p&gt;Освоение таких инструментов — важный шаг для любого, кто работает с текстом и информацией в сфере IT. 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
