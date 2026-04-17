@@ -5,12 +5,33 @@
     <link>https://eaguschina.github.io/ru/publications/</link>
       <atom:link href="https://eaguschina.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eaguschina.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://eaguschina.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://eaguschina.github.io/ru/publications/04/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://eaguschina.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Научное программирование играет ключевую роль в современных исследованиях — от обработки данных до моделирования сложных систем. Выбор языка зависит от задач, области применения и требований к производительности.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых популярных языков благодаря своей простоте и огромному количеству библиотек. Используется для анализа данных, машинного обучения и визуализации.&lt;/li&gt;
+&lt;li&gt;📈 &lt;strong&gt;R&lt;/strong&gt; — широко применяется в статистике и анализе данных. Обладает мощными инструментами для работы с графиками и моделями.&lt;/li&gt;
+&lt;li&gt;⚙️ &lt;strong&gt;C++&lt;/strong&gt; — используется там, где важна высокая производительность, например, в численном моделировании и разработке сложных систем.&lt;/li&gt;
+&lt;li&gt;🧮 &lt;strong&gt;MATLAB&lt;/strong&gt; — удобен для инженерных и математических расчётов, часто применяется в университетах и научных лабораториях.&lt;/li&gt;
+&lt;li&gt;🧑‍🔬 &lt;strong&gt;Julia&lt;/strong&gt; — относительно новый язык, разработанный специально для научных вычислений, сочетает высокую скорость и удобный синтаксис.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждый из этих языков решает свои задачи: одни делают акцент на удобстве разработки, другие — на скорости выполнения и точности вычислений.&lt;/p&gt;
+&lt;p&gt;📊 Важно не только знать синтаксис языка, но и понимать, какие инструменты лучше подходят для конкретной научной задачи.&lt;/p&gt;
+&lt;p&gt;Освоение нескольких языков позволяет гибко подходить к решению задач и эффективно работать с различными типами данных.&lt;/p&gt;
+&lt;p&gt;Научное программирование продолжает развиваться, открывая новые возможности для исследований и инноваций 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Оформление отчёта</title>

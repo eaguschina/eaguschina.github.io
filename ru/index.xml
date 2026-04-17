@@ -169,6 +169,78 @@
     </item>
     
     <item>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://eaguschina.github.io/ru/projects/hugo/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://eaguschina.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Персональный сайт исследователя сегодня — это не просто визитка, а полноценный инструмент для представления научной деятельности. Он помогает делиться публикациями, проектами и достижениями, а также упрощает профессиональное взаимодействие.&lt;/p&gt;
+&lt;p&gt;Одним из удобных решений для создания такого сайта является &lt;strong&gt;Hugo Academic&lt;/strong&gt; — современная тема для статического генератора сайтов Hugo, ориентированная на академическую среду.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ &lt;strong&gt;Простота и скорость&lt;/strong&gt; — сайты на Hugo быстро загружаются и не требуют сложной серверной логики.&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Готовые шаблоны&lt;/strong&gt; — Academic предлагает структуру для публикаций, резюме, проектов и блогов.&lt;/li&gt;
+&lt;li&gt;📚 &lt;strong&gt;Удобное управление контентом&lt;/strong&gt; — статьи и материалы добавляются в виде Markdown-файлов.&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;Гибкая настройка&lt;/strong&gt; — можно изменять внешний вид, блоки и структуру сайта под свои задачи.&lt;/li&gt;
+&lt;li&gt;🌍 &lt;strong&gt;Публикация онлайн&lt;/strong&gt; — сайт легко разместить на GitHub Pages или других хостингах.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-основные-разделы-сайта&#34;&gt;🛠️ Основные разделы сайта&lt;/h2&gt;
+&lt;p&gt;Хорошо структурированный сайт научного работника обычно включает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👤 &lt;strong&gt;О себе&lt;/strong&gt; — краткая информация, образование, научные интересы&lt;/li&gt;
+&lt;li&gt;📄 &lt;strong&gt;Публикации&lt;/strong&gt; — статьи, конференции, исследования&lt;/li&gt;
+&lt;li&gt;💼 &lt;strong&gt;Проекты&lt;/strong&gt; — описание выполненных и текущих работ&lt;/li&gt;
+&lt;li&gt;🏆 &lt;strong&gt;Достижения&lt;/strong&gt; — награды, гранты, участие в программах&lt;/li&gt;
+&lt;li&gt;✉️ &lt;strong&gt;Контакты&lt;/strong&gt; — способы связи и ссылки на профессиональные профили&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-почему-это-важно&#34;&gt;🚀 Почему это важно&lt;/h2&gt;
+&lt;p&gt;Создание собственного сайта помогает формировать профессиональный имидж и делает научную деятельность более открытой. Это особенно актуально в условиях цифровой трансформации науки.&lt;/p&gt;
+&lt;p&gt;Кроме того, такой сайт становится удобной платформой для хранения и демонстрации результатов работы в одном месте.&lt;/p&gt;
+&lt;p&gt;Постепенно сайт превращается в цифровое портфолио, отражающее развитие исследователя и его вклад в науку 📈&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://eaguschina.github.io/ru/publications/04/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://eaguschina.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Научное программирование играет ключевую роль в современных исследованиях — от обработки данных до моделирования сложных систем. Выбор языка зависит от задач, области применения и требований к производительности.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых популярных языков благодаря своей простоте и огромному количеству библиотек. Используется для анализа данных, машинного обучения и визуализации.&lt;/li&gt;
+&lt;li&gt;📈 &lt;strong&gt;R&lt;/strong&gt; — широко применяется в статистике и анализе данных. Обладает мощными инструментами для работы с графиками и моделями.&lt;/li&gt;
+&lt;li&gt;⚙️ &lt;strong&gt;C++&lt;/strong&gt; — используется там, где важна высокая производительность, например, в численном моделировании и разработке сложных систем.&lt;/li&gt;
+&lt;li&gt;🧮 &lt;strong&gt;MATLAB&lt;/strong&gt; — удобен для инженерных и математических расчётов, часто применяется в университетах и научных лабораториях.&lt;/li&gt;
+&lt;li&gt;🧑‍🔬 &lt;strong&gt;Julia&lt;/strong&gt; — относительно новый язык, разработанный специально для научных вычислений, сочетает высокую скорость и удобный синтаксис.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждый из этих языков решает свои задачи: одни делают акцент на удобстве разработки, другие — на скорости выполнения и точности вычислений.&lt;/p&gt;
+&lt;p&gt;📊 Важно не только знать синтаксис языка, но и понимать, какие инструменты лучше подходят для конкретной научной задачи.&lt;/p&gt;
+&lt;p&gt;Освоение нескольких языков позволяет гибко подходить к решению задач и эффективно работать с различными типами данных.&lt;/p&gt;
+&lt;p&gt;Научное программирование продолжает развиваться, открывая новые возможности для исследований и инноваций 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебная неделя студентки</title>
+      <link>https://eaguschina.github.io/ru/blog/04/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://eaguschina.github.io/ru/blog/04/</guid>
+      <description>&lt;h2 id=&#34;-как-прошла-моя-неделя&#34;&gt;📅 Как прошла моя неделя&lt;/h2&gt;
+&lt;p&gt;Эта неделя прошла динамично и продуктивно, добавив ясности в понимание выбранной специальности. Всё чаще замечаю, как теория начинает находить отражение в практических задачах.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На лекциях по &lt;strong&gt;бизнес-информатике&lt;/strong&gt; анализировали, как цифровые инструменты помогают оптимизировать бизнес-процессы и повышать эффективность компаний.&lt;/li&gt;
+&lt;li&gt;💻 В рамках &lt;strong&gt;программирования&lt;/strong&gt; продолжила решать задачи, уделяя внимание структуре кода и поиску более рациональных решений.&lt;/li&gt;
+&lt;li&gt;📊 На занятиях по &lt;strong&gt;анализу данных&lt;/strong&gt; работала с визуализацией и интерпретацией результатов, стараясь делать выводы более точными и аргументированными.&lt;/li&gt;
+&lt;li&gt;🧠 Самостоятельная работа помогла глубже разобраться в сложных темах и систематизировать полученные знания.&lt;/li&gt;
+&lt;li&gt;🤝 Совместные проекты с одногруппниками позволили обменяться идеями и увидеть альтернативные подходы к решению задач.&lt;/li&gt;
+&lt;li&gt;🌿 Не забывала про отдых — смена активности помогала поддерживать концентрацию и избегать перегрузки.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;С каждой неделей становится проще ориентироваться в материале и выстраивать логические связи между дисциплинами.&lt;/p&gt;
+&lt;p&gt;Двигаюсь дальше с интересом и мотивацией — впереди ещё много новых открытий! 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Оформление отчёта</title>
       <link>https://eaguschina.github.io/ru/publications/03/</link>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
@@ -750,30 +822,6 @@ Thank you for your attention! Feel free to reach out with questions or contribut
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>https://eaguschina.github.io/ru/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://eaguschina.github.io/ru/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://eaguschina.github.io/ru/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://eaguschina.github.io/ru/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://eaguschina.github.io/ru/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://eaguschina.github.io/ru/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>

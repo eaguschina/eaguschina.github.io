@@ -5,7 +5,7 @@
     <link>https://eaguschina.github.io/ru/tags/hugo/</link>
       <atom:link href="https://eaguschina.github.io/ru/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eaguschina.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Hugo</title>
@@ -13,27 +13,34 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://eaguschina.github.io/ru/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://eaguschina.github.io/ru/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://eaguschina.github.io/ru/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://eaguschina.github.io/ru/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://eaguschina.github.io/ru/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://eaguschina.github.io/ru/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://eaguschina.github.io/ru/projects/hugo/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://eaguschina.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Персональный сайт исследователя сегодня — это не просто визитка, а полноценный инструмент для представления научной деятельности. Он помогает делиться публикациями, проектами и достижениями, а также упрощает профессиональное взаимодействие.&lt;/p&gt;
+&lt;p&gt;Одним из удобных решений для создания такого сайта является &lt;strong&gt;Hugo Academic&lt;/strong&gt; — современная тема для статического генератора сайтов Hugo, ориентированная на академическую среду.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ &lt;strong&gt;Простота и скорость&lt;/strong&gt; — сайты на Hugo быстро загружаются и не требуют сложной серверной логики.&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Готовые шаблоны&lt;/strong&gt; — Academic предлагает структуру для публикаций, резюме, проектов и блогов.&lt;/li&gt;
+&lt;li&gt;📚 &lt;strong&gt;Удобное управление контентом&lt;/strong&gt; — статьи и материалы добавляются в виде Markdown-файлов.&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;Гибкая настройка&lt;/strong&gt; — можно изменять внешний вид, блоки и структуру сайта под свои задачи.&lt;/li&gt;
+&lt;li&gt;🌍 &lt;strong&gt;Публикация онлайн&lt;/strong&gt; — сайт легко разместить на GitHub Pages или других хостингах.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-основные-разделы-сайта&#34;&gt;🛠️ Основные разделы сайта&lt;/h2&gt;
+&lt;p&gt;Хорошо структурированный сайт научного работника обычно включает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👤 &lt;strong&gt;О себе&lt;/strong&gt; — краткая информация, образование, научные интересы&lt;/li&gt;
+&lt;li&gt;📄 &lt;strong&gt;Публикации&lt;/strong&gt; — статьи, конференции, исследования&lt;/li&gt;
+&lt;li&gt;💼 &lt;strong&gt;Проекты&lt;/strong&gt; — описание выполненных и текущих работ&lt;/li&gt;
+&lt;li&gt;🏆 &lt;strong&gt;Достижения&lt;/strong&gt; — награды, гранты, участие в программах&lt;/li&gt;
+&lt;li&gt;✉️ &lt;strong&gt;Контакты&lt;/strong&gt; — способы связи и ссылки на профессиональные профили&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-почему-это-важно&#34;&gt;🚀 Почему это важно&lt;/h2&gt;
+&lt;p&gt;Создание собственного сайта помогает формировать профессиональный имидж и делает научную деятельность более открытой. Это особенно актуально в условиях цифровой трансформации науки.&lt;/p&gt;
+&lt;p&gt;Кроме того, такой сайт становится удобной платформой для хранения и демонстрации результатов работы в одном месте.&lt;/p&gt;
+&lt;p&gt;Постепенно сайт превращается в цифровое портфолио, отражающее развитие исследователя и его вклад в науку 📈&lt;/p&gt;
+</description>
     </item>
     
   </channel>
